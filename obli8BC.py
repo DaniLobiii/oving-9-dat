@@ -26,10 +26,10 @@ questions = [
 def test_svar(questions):
     score_teller = 0
     for question in questions:
-        answer = input(question.prompt + "\n" + "\nSvar:")
+        answer = input(question.prompt + "\n" + "\nSvar:\nc")
         if answer == question.answer:
             score_teller += 1
-    print("\nDu fikk " + str(score_teller) + '/' + str(len(questions)) + " riktig")
+    print("\nDu fikk " + str(score_teller) + '/' + str(len(questions)) + " riktig \n")
     
 test_svar(questions)    
 
