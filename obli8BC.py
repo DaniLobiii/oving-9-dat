@@ -33,3 +33,4 @@ def test_svar(questions):
     
 test_svar(questions)    
 
+#v vamos a ver que es lo que sucede con esto ? 
