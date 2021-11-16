@@ -7,3 +7,4 @@ men skal vi prøve igjen . åpne github app and laste opp forandringene
 =======
 lalalalalal!
 >>>>>>> b2ac7ab48694d2dc84718a38872a1bf7ecae0207
+ahora ?
